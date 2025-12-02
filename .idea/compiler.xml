@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FormPost" />
+        <module name="CookiesApp" />
+        <module name="Biblioteca (1)" />
+        <module name="Biblioteca" />
+        <module name="SimulacroEx1" />
+        <module name="HolaMundo" />
+        <module name="Simulacr2" />
+        <module name="cabecerasapp1" />
+        <module name="JDBCApp" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SimulacroEx1" options="-parameters" />
+    </option>
+  </component>
+</project>
