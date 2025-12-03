@@ -23,7 +23,7 @@ El objetivo es mostrar ejemplos prácticos de servlets, DAOs y configuración de
 
 <br>
 <p align="center">
-  <img src="https://cdn-wcsm.alura.com.br/2025/04/jdbc.png" alt="Diagrama JDBC Alura" width="150"/>
-  <img src="https://www.eclipse.org/community/eclipse_newsletter/2019/august/images/kevin6.png" alt="Diagrama JDBC Eclipse" width="400"/>
+  <img src="https://cdn-wcsm.alura.com.br/2025/04/jdbc.png" alt="Diagrama JDBC Alura" width="200"/>
+  <img src="https://www.eclipse.org/community/eclipse_newsletter/2019/august/images/kevin6.png" alt="Diagrama JDBC Eclipse" width="200"/>
 </p>
 <br>
